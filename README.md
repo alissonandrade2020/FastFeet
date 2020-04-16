@@ -19,6 +19,9 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alissonandrade2020/FastFeet.svg">
   </a>
 </p>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/.github/Sem%20T%C3%ADtulo-1.jpg" width="70%" heigth="70%" />
+</h1>
 
 ## :rocket: Technologies
 
